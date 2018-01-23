@@ -4,5 +4,4 @@ function theBeatlesPlay(musician, instrument) {
     pairs.unshift(`${musician[i]} plays ${instrument[i]}`);
     return pairs;
   }
-  return pairs;
 }
