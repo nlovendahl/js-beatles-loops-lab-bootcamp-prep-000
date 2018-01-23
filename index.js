@@ -5,3 +5,4 @@ function theBeatlesPlay(musician, instrument) {
     return pairs;
   }
 }
+console.log(musician.length);
